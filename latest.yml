@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: ImperialCAD.Setup.1.0.0.exe
-    sha512: tPgaj8z52mmFMzF3caLcWGfMbs3Eor7ZVHny/qggBxeOgRqxgKKe6jEDC0oO52o2J6/uPXQzdhmI5Uz0Rt1OBA==
-    size: 77066572
-path: ImperialCAD.Setup.1.0.0.exe
-sha512: tPgaj8z52mmFMzF3caLcWGfMbs3Eor7ZVHny/qggBxeOgRqxgKKe6jEDC0oO52o2J6/uPXQzdhmI5Uz0Rt1OBA==
-releaseDate: '2025-07-20T01:19:49.097Z'
+  - url: ImperialCAD.Setup.1.0.1.exe
+    sha512: MpYRGTD3KDkRcwnZ2vMvN/X1+NO8WEvqUDJu+kvs7QNcgpaLKvGzvjaLQmIhdOSeJbd2X0v4xKCV7hUeLbUQDQ==
+    size: 77066732
+path: ImperialCAD.Setup.1.0.1.exe
+sha512: MpYRGTD3KDkRcwnZ2vMvN/X1+NO8WEvqUDJu+kvs7QNcgpaLKvGzvjaLQmIhdOSeJbd2X0v4xKCV7hUeLbUQDQ==
+releaseDate: '2025-07-20T01:41:20.393Z'
